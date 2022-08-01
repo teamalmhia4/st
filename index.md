@@ -16,7 +16,7 @@
         <link rel="stylesheet" href="https://raw.githubusercontent.com/teamalmhia4/st/css/animate.css">
         <link rel="stylesheet" href="https://raw.githubusercontent.com/teamalmhia4/st/css/hover.css">
         <link rel="stylesheet" href="https://raw.githubusercontent.com/teamalmhia4/st/css/frontend.css">
-        <script src="../www.google.com/recaptcha/api.js" async defer></script>
+        <  script   src = "https://raw.githubusercontent.com/teamalmhia4/st/js/api.js"   مؤجل غير متزامن   > </ script >    
     </head>
    <body id="home">
        <!-- Menu -->
@@ -248,13 +248,13 @@
        </div>
        
        <!-- Required JavaScript -->
-       <script src="js/jquery-3.4.1.slim.min.js"></script>
-       <script src="js/popper.min.js"></script>
-       <script src="js/bootstrap.min.js"></script>
-       <script src="js/typed.min.js"></script>
-       <script src="js/jquery.nav.js"></script>
-       <script src="js/wow.min.js"></script>
-       <script src="js/frontend.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/jquery-3.4.1.slim.min.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/popper.min.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/bootstrap.min.js></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/typed.min.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/jquery.nav.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/wow.min.js"></script>
+       <script src="https://raw.githubusercontent.com/teamalmhia4/st/js/frontend.js"></script>
    </body>
 
 <!-- Mirrored from .com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 18 Oct sakhrs.com 9 21:30:12 GMT -->
