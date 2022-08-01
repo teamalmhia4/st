@@ -9,13 +9,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>سطحة جدة لنقل السيارات خدمة 24 ساعة 0552737074</title>
-        <link rel="stylesheet" href="css.css">
+        <link rel="stylesheet" href="[css.css](https://raw.githubusercontent.com/teamalmhia4/st/css/css.css)">
         <!-- Required CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/all.min.css">
-        <link rel="stylesheet" href="css/animate.css">
-        <link rel="stylesheet" href="css/hover.css">
-        <link rel="stylesheet" href="css/frontend.css">
+        <link rel="stylesheet" href="[css/all.min.css](https://raw.githubusercontent.com/teamalmhia4/st/css/all.min.css)">
+        <link rel="stylesheet" href="[css/animate.css](https://raw.githubusercontent.com/teamalmhia4/st/css/animate.css)">
+        <link rel="stylesheet" href="https://raw.githubusercontent.com/teamalmhia4/st/css/hover.css">
+        <link rel="stylesheet" href="[css/frontend.css](https://raw.githubusercontent.com/teamalmhia4/st/css/frontend.css)">
         <script src="../www.google.com/recaptcha/api.js" async defer></script>
     </head>
    <body id="home">
